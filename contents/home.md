@@ -1,9 +1,9 @@
 
-Hangyu Zhu received the master’s degree from the Department of Computer Science and Technology, Tongji University, Shanghai, China, in March 2021, where he is currently pursuing the Ph.D. degree with the Department of Computer Science. His research interests include anomaly detection and network representation learning.
+朱航宇于2021年3月在同济大学计算机科学与技术系获得硕士学位，目前正在计算机科学与技术系攻读博士学位。他的研究兴趣包括异常检测和网络表示学习。
 
 
 #### Email
-hangyuzhu[at]tongji.edu.cn
+hangyuzhu@tongji.edu.cn
 
 #### Education
  2021.9-至今	同济大学	计算机科学与技术	博士
