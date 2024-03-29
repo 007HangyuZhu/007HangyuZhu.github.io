@@ -1,8 +1,11 @@
+## 论文
+- <strong>Hangyu Zhu</strong>, Cheng Wang, “Enabling fraud prediction on preliminary data through information density booster,” IEEE Transactions on Information Forensics and Security, vol. 18, pp. 5706–5720, 2023. <strong>(期刊论文, CCF-A, SCI 1区, IF: 6.8, 唯一第一作者)<strong>
 
-- <strong>S. Li</strong>, X. Yang, A. Cao, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A foundational deep learning model for earthquake monitoring tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- Cheng Wang, Hangyu Zhu, “Wrongdoing monitor: A graph-based behavioral anomaly detection in cyber security,” IEEE Transactions on Information Forensics and Security, vol. 17, pp. 2703–2718, 2022. (期刊论文, CCF-A, SCI 1区, IF: 6.8, 导师第一本人第二)
 
-- A. Cao, X. Yang, C. Wang, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-precision phase picking and automatic source locating method for seismicity in mines based on deep transfer learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- Cheng Wang, Hangyu Zhu, “Representing fine-grained co-occurrences for behavior-based fraud detection in online payment services,” IEEE Transactions Dependable and Secure Computing,” vol. 19, no. 1, pp. 301–315, 2022. (期刊论文, CCF-A, SCI 2区, IF: 7.3, 导师第一本人第二) 
 
-- A. Cao, Y. Liu, X. Yang, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical index and Data Fusion-Driven method for coal burst prediction in time sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- Cheng Wang, Hangyu Zhu, Bo Yang, “Composite behavioral modeling for identity theft detection in online social networks,” IEEE Transactions on Computational Social Systems, vol. 9, no. 2, pp. 428–439, 2022. (期刊论文, CCF-C, SCI 2区, IF: 5.0, 导师第一本人第二)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: battery-free localization base station for coal mine environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+## 专著
+- 王成，朱航宇，李志伟, 移动网络服务智能优化与安全. 同济大学出版社, 2023. (学术专著, 导师第一本人第二)
