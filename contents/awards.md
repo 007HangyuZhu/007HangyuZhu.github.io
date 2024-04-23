@@ -2,7 +2,7 @@
 <ol>
 
 
-  <li> 同济大学学术先锋, 同济大学, 2023, 提名奖. (荣誉称号, 仅6 名)  <a href="https://mp.weixin.qq.com/s/TZZa6-hhWrdas4CAw-PSrA
+  <li> 学术先锋, 同济大学, 2023, 提名奖. (荣誉称号, 仅6 名)  <a href="https://mp.weixin.qq.com/s/TZZa6-hhWrdas4CAw-PSrA
   ">[同济大学公众号推文]</a>   </li>
     <li> 学术达人, 同济大学电子与信息工程学院, 2023. (荣誉称号, 仅3名)  <a href="https://mp.weixin.qq.com/s/SizTr_5Deg5UHH5sR7Z1Yg">[同济大学电子与信息工程学院公众号推文]</a>  </li>
     
