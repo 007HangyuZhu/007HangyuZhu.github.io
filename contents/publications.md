@@ -39,7 +39,7 @@
  <li> Cheng Wang, Hao Tang,  <strong>Hangyu Zhu</strong>, Junhan Zheng, Changjun Jiang, “Behavioral Authentication for Security and
   Safety,” Security and Safety, Forthcoming article.  <strong>(期刊论文) </strong> <a href=" https://doi.org/10.1051/sands/2024003">[Link]</a> </li>
 
- <li> Cheng Wang, Hao Tang,  <strong>Hangyu Zhu</strong>u, Changjun Jiang, “Collaborative prediction in anti-fraud system over multiple
+ <li> Cheng Wang, Hao Tang,  <strong>Hangyu Zhu</strong>, Changjun Jiang, “Collaborative prediction in anti-fraud system over multiple
   credit loan platforms,” IEEE Transactions on Dependable and Secure Computing, pp. 1–17, 2023. <strong>(期刊论文, CCF-A
   , SCI 2区, IF: 7.3) </strong> <a href="https://doi.org/10.1109/tdsc.2023.3334281">[Link]</a> </li>
   
