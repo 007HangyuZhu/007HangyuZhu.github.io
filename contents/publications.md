@@ -2,6 +2,10 @@
 
 ### 第一作者（或导师第一）
 <ol>
+
+   <li> <strong>Hangyu Zhu</strong>, Cheng Wang, “Detecting evolving fraudulent behavior in online payment services: open-category and concept-drift,” IEEE Transactions on Services Computing, vol.  , pp.  (Early Access), 2024. <strong
+  >(期刊论文, CCF-A, SCI 2区, IF: 5.19)</strong> <a href="https://">[Link]</a> </li>
+ 
  <li> <strong>Hangyu Zhu</strong>, Cheng Wang, “Enabling fraud prediction on preliminary data through information
   density booster,” IEEE Transactions on Information Forensics and Security, vol. 18, pp. 5706–5720, 2023. <strong
   >(期刊论文, CCF-A, SCI 1区, IF: 6.8)</strong> <a href="https://doi.org/10.1109/tifs.2023.3300523">[Link]</a> </li>
