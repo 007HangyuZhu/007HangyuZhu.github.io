@@ -4,7 +4,7 @@
 <ol>
 
    <li> <strong>Hangyu Zhu</strong>, Cheng Wang, “Detecting evolving fraudulent behavior in online payment services: open-category and concept-drift,” IEEE Transactions on Services Computing, vol.  , pp.  (Early Access), 2024. <strong
-  >(期刊论文, CCF-A, SCI 2区, IF: 5.5)</strong> <a href="https://doi.org/10.1109/TSC.2024.3422880//">[Link]</a> </li>
+  >(期刊论文, CCF-A, SCI 2区, IF: 5.5)</strong> <a href="https://doi.org/10.1109/TSC.2024.3422880">[Link]</a> </li>
  
  <li> <strong>Hangyu Zhu</strong>, Cheng Wang, “Enabling fraud prediction on preliminary data through information
   density booster,” IEEE Transactions on Information Forensics and Security, vol. 18, pp. 5706–5720, 2023. <strong
