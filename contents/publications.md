@@ -6,7 +6,7 @@
    <li> Cheng Wang, <strong>Hangyu Zhu</strong>, Kaixin Chu, “X-Trafformer: A unified variable-term prediction for object-generalized traffic in network services,” IEEE Transactions on Services Computing, vol.  , pp.  (Accept), 2024. <strong
   >(期刊论文, CCF-A, SCI 2区, IF: 5.5)</strong> <a href="">[Link]</a> </li>
   
-   <li> <strong>Hangyu Zhu</strong>, Cheng Wang, “Detecting evolving fraudulent behavior in online payment services: open-category and concept-drift,” IEEE Transactions on Services Computing, vol.  , pp.  (Early Access), 2024. <strong
+   <li> <strong>Hangyu Zhu</strong>, Cheng Wang, Songyao Chai, “Detecting evolving fraudulent behavior in online payment services: open-category and concept-drift,” IEEE Transactions on Services Computing, vol.  , pp.  (Early Access), 2024. <strong
   >(期刊论文, CCF-A, SCI 2区, IF: 5.5)</strong> <a href="https://doi.org/10.1109/TSC.2024.3422880">[Link]</a> </li>
  
  <li> <strong>Hangyu Zhu</strong>, Cheng Wang, “Enabling fraud prediction on preliminary data through information
