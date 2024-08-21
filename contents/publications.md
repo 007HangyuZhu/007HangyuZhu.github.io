@@ -69,7 +69,7 @@
 
 ## 专著
 <ol>
- <li> 王成，<strong>朱航宇</strong>，李志伟, 移动网络服务智能优化与安全. 同济大学出版社, 2023. <strong>(学术专著)</strong>  <a href="https://app.readoor.cn/app/dt/bi/1655775277/270671-808745644222cd?s=3">[Link]</a></li>
+ <li> 王成，<strong>朱航宇</strong>，李志伟, 移动网络服务智能优化与安全. 同济大学出版社, 2023. <strong>(学术专著)</strong> <a href="https://app.readoor.cn/app/dt/bi/1655775277/270671-808745644222cd?s=3">[Link]</a></li>
 </ol>
 
 
