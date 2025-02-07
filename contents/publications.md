@@ -3,6 +3,9 @@
 ### 第一作者（或导师第一）
 <ol>
 
+   <li> Cheng Wang, <strong>Hangyu Zhu</strong>, “Behavior Tomographer: Identifying hidden cybercrimes by behavior interior structure modeling,” IEEE Transactions on Services Computing, Early Access, 2025. <strong
+  >(期刊论文, CCF-A, SCI 2区, IF: 5.5)</strong> <a href="https://ieeexplore.ieee.org/document/10876798">[Link]</a> </li>
+
    <li> Cheng Wang, <strong>Hangyu Zhu</strong>, Kaixin Chu, “X-Trafformer: A unified variable-term prediction for object-generalized traffic in network services,” IEEE Transactions on Services Computing, vol. 17 , pp.  4494 - 4507, 2024. <strong
   >(期刊论文, CCF-A, SCI 2区, IF: 5.5)</strong> <a href="https://ieeexplore.ieee.org/document/10648650">[Link]</a> </li>
   
